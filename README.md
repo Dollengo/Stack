@@ -8,3 +8,5 @@
 - In the main section, the user is **prompted** to enter the size of the stack. Then, a StaticStack object is created with the specified size.
 - A menu is **presented** to the user with options to push, pop, display elements, or exit the **program**.
 - **Depending** on the user's choice, the corresponding method of the **StaticStack** object is called to perform the desired operation on the stack.
+
+## Code by Dollengo**(Tarcísio)**
