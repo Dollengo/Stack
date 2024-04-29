@@ -9,4 +9,4 @@
 - A menu is **presented** to the user with options to push, pop, display elements, or exit the **program**.
 - **Depending** on the user's choice, the corresponding method of the **StaticStack** object is called to perform the desired operation on the stack.
 
-## Code by Dollengo**(Tarcísio)**
+## Code by Dollengo **(Tarcísio)**
